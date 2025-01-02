@@ -10,12 +10,18 @@
 
 There are small and big drawers. The small drawers are 32cm x 36cm and the big drawers are 72cm x 36cm.
 
-The innner dimesnions of the big drwaers are:
+The inner dimensions of the big drawer are:
 Height: 13cm
 Width: 29.4cm
 Length: 42.3cm
 
-Gridfinity Baseplate requeired:
+The inner dimensions of the small drawer are:
+Height: 8.5cm
+The lowest part is 6.8 cm
+In the gridfinitygenerator, the dimensions used are:
+Z: 9 = 9 * 7 + 4.4 = 67.4 mm
+
+Gridfinity Baseplate required:
 
 Grid:
 294 mm / 42 mm = 7 ( width = 294 mm )
@@ -34,4 +40,3 @@ Breaking down the baseplate into 4 parts:
 2 . 5 X 4
 3 . 2 X 4
 4 . 2 X 6
-
